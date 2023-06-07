@@ -1,5 +1,5 @@
 # API-Testing-Project
-Performed API testing on frequently used API for a test site [Testing World API](https://thetestingworldapi.com).. This project provides an example for testing APIs with Postman.<br>
+Performed API testing on frequently used API for a test site [Testing World API](https://thetestingworldapi.com). This project provides an example for testing APIs with Postman.<br>
 <b><h3>Why use Postman?</h3></b>
 Postman is a popular and easy-to-use API testing tool. It is simple to build & send requests and examine the responses, making it popular for exploratory and manual testing of APIs. However, Postman is capable of much more and is often overlooked as an automated API testing tool.<br>
 <b><h3>Postman Test Suite</h3></b>
