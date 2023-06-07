@@ -60,6 +60,7 @@ newman run Fatema_Tabassum_21.postman_collection.json -e Fatema_Tabassum_21.post
 <ul>
 <li>https://documenter.getpostman.com/view/13082503/2s93Xwz4Az</li>
 </ul>
+---
 ## Reports
 * To view report: *[/allure-report/index.html](https://fatematabassum1604009.github.io/API-Testing-Project/Newman%20Report/Fatema_Tabassum_21-2023-02-14-06-36-39-237-0.html)*
 ---
