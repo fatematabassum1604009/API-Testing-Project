@@ -62,7 +62,7 @@ newman run Fatema_Tabassum_21.postman_collection.json -e Fatema_Tabassum_21.post
 </ul>
 
 ---
-<b><h3>API documentation</h3></b>
+<b><h3>Report</h3></b>
 * To view report: *(https://fatematabassum1604009.github.io/API-Testing-Project/Newman%20Report/Fatema_Tabassum_21-2023-02-14-06-36-39-237-0.html)*
 ---
 <b><h3>Newman Summary Report Screenshot:</h3></b><br>
