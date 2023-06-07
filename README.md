@@ -60,6 +60,9 @@ newman run Fatema_Tabassum_21.postman_collection.json -e Fatema_Tabassum_21.post
 <ul>
 <li>https://documenter.getpostman.com/view/13082503/2s93Xwz4Az</li>
 </ul>
+## Reports
+* To view report of test: *[/allure-report/index.html](https://fatematabassum1604009.github.io/selenium-project-with-java/allure-report/index.html)*
+---
 <b><h3>Newman Summary Report Screenshot:</h3></b><br>
 
 ![report](https://github.com/fatematabassum1604009/API-Testing-Project/assets/34239300/4547079c-b85f-468a-89e1-33ed354891c3)
